@@ -1,0 +1,12 @@
+{"question": "Which header sets how long a cached response stays fresh?", "doc": "http-caching.md", "keywords": ["cache-control", "max-age"]}
+{"question": "What does the server return when an ETag still matches?", "doc": "http-caching.md", "keywords": ["304"]}
+{"question": "Which cache directive should be used for sensitive data?", "doc": "http-caching.md", "keywords": ["no-store"]}
+{"question": "What happens when a liveness probe fails?", "doc": "kubernetes-probes.md", "keywords": ["restarts"]}
+{"question": "Is a pod restarted when its readiness probe fails?", "doc": "kubernetes-probes.md", "keywords": ["endpoints", "not restarted"]}
+{"question": "How can I protect a slow starting application from being killed?", "doc": "kubernetes-probes.md", "keywords": ["startup probe"]}
+{"question": "Why do threads not speed up CPU bound Python code?", "doc": "python-gil.md", "keywords": ["gil"]}
+{"question": "How can Python run CPU heavy work in parallel?", "doc": "python-gil.md", "keywords": ["multiprocessing"]}
+{"question": "Which Python version added a build without the GIL?", "doc": "python-gil.md", "keywords": ["3.13"]}
+{"question": "What water temperature is best for brewing coffee?", "doc": "coffee-brewing.md", "keywords": ["90", "96"]}
+{"question": "How long does cold brew steep?", "doc": "coffee-brewing.md", "keywords": ["12", "24"]}
+{"question": "What coffee to water ratio is used for pour over?", "doc": "coffee-brewing.md", "keywords": ["16"]}
